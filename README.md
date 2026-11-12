@@ -4,9 +4,17 @@ Addon Blender dùng chung của team. Tách riêng khỏi repo skill (`team-skil
 
 ## Danh sách addon
 
-| Addon | Thư mục | Ghi chú |
+| Addon | Thư mục | Giấy phép / nguồn |
 |---|---|---|
-| Asset Creation Toolset (ACT) 2023.1 | `addons/Asset_Creation_Toolset_2023_1_Bl361` | Dùng cho skill `export_hoidz` (Import/Export Tools → Export FBX to Unity). Nguồn gốc: https://github.com/mrven/Blender-Asset-Creation-Toolset (GPL) |
+| Asset Creation Toolset (ACT) 2023.1 | `addons/Asset_Creation_Toolset_2023_1_Bl361` | GPL. https://github.com/mrven/Blender-Asset-Creation-Toolset (dùng cho skill `export_hoidz`) |
+| EdgeFlow | `addons/EdgeFlow` | GPL v3, Benjamin Sauder |
+| Simple Renaming Panel | `addons/simple_renaming_panel` | GPL v3, Matthias Patscheider |
+| Interactive Tools | `addons/interactive_tools` | GPL v3, Maxi Vazquez, Ajfurey |
+| UV Toolkit 2.1.2 | `addons/uv_toolkit` | GPL v3 |
+
+Mỗi addon giữ nguyên file giấy phép của tác giả trong thư mục của nó.
+
+Cài nhanh: dùng trang https://minhdv-zz.github.io/team-skills/ (tab Addon) khi đã cài plugin Paseo.
 
 ## Cài đặt
 
